@@ -373,6 +373,7 @@
                             Click="Exit_Button_Click"/>
                     </Grid>
                 </Border>
+                <!-- info panel -->
                 <Border
                     Grid.Row="1"
                     Grid.Column="1"
